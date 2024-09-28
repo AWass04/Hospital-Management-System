@@ -1,0 +1,48 @@
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.exe
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.deps.json
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.runtimeconfig.json
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.dll
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.pdb
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.AssemblyInfoInputs.cache
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.AssemblyInfo.cs
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.dll
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\refint\Hospital Management System.dll
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.pdb
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.genruntimeconfig.cache
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\ref\Hospital Management System.dll
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.AdminHome.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.DoctorHome.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.Login.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.ReceptionistHome.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.Properties.Resources.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.BookAppointment.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.CancelAppointment.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.RegisterPatient.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.ViewPatientsD.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.ViewPatientsR.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.ViewSchedule.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.csproj.AssemblyReference.cache
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.csproj.CopyComplete
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.dll.config
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\bin\Debug\net6.0-windows\Dapper.dll
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.Admin.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.Doctors.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.Profile.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.Receptionists.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.CreateEmployee.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\bin\Debug\net6.0-windows\Database.db
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.ViewStaff.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.SearchResultD.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.SearchResultR.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.AddNote.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.UserControlBlank.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.UserControlDays.resources
+C:\Users\Aaron Wass\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.AppointmentPopUp.resources

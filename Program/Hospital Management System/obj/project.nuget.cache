@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OFnTB+H2FjUZZmgZpTXP1o8k6pv4GHddKq2fX6lppkCimth6LfcFKF5qoYIYVPjGQMtnFFhI+Tb1EmFScwuPJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aaron Wass\\Desktop\\Uni\\Hospital Management System\\Hospital Management System\\Hospital Management System\\Hospital Management System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aaron Wass\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512",
+    "C:\\Users\\Aaron Wass\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\Aaron Wass\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}
