@@ -1,0 +1,20 @@
+08/05/2024 19:18:09 H1113 logged in.
+08/05/2024 19:18:24 H1113 changed their profile details.
+08/05/2024 19:18:31 H1113 changed their profile details.
+08/05/2024 19:19:28 H1113 changed P11121's details
+08/05/2024 19:20:06 H1113 changed P11121's details
+08/05/2024 19:20:38 H1113 registered patient P61760
+08/05/2024 19:23:37 H1113 logged in.
+08/05/2024 19:24:28 H1113 created appointment for P61760 with H1118
+08/05/2024 19:26:05 H1113 created appointment for P61760 with H1118
+08/05/2024 19:27:16 H1113 created appointment for P61760 with H1118
+08/05/2024 19:27:54 H1113 cancelled P61760's Appointment
+08/05/2024 19:28:08 H1113 logged out
+08/05/2024 19:28:27 H1118 logged in.
+08/05/2024 19:29:38 H1118 added note to P11116's record
+08/05/2024 19:30:19 H1118 logged out
+08/05/2024 19:30:36 H1111 logged in.
+08/05/2024 19:31:02 H1111 created account H6397
+08/05/2024 19:31:23 H1111 created account H1854
+08/05/2024 19:32:12 H1111 changed H1854 job role.
+08/05/2024 19:32:52 H1111 logged out
